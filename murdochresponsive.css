@@ -1,0 +1,24 @@
+ 
+
+
+@media (max-width:1177px){
+
+  .mario ul{
+  	 margin-left: 0px !important;
+  }
+ .nav-link {
+ 	font-size: 14px;
+ }
+ 
+ .logo{
+ 	width: 50px;
+ }
+}
+
+
+@media (max-width:933px){
+ .shaving img{
+  display: none;
+
+ }
+}

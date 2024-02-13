@@ -1,0 +1,22 @@
+
+ 
+
+ .nav-link:hover{
+ 	color: red !important;  
+ }
+
+ .jimi a{
+ 	text-decoration: none;
+ }
+ .btn{
+ 	background-image: linear-gradient(to bottom,rgb(1, 140, 246),white);
+ 	margin-right:80px;
+	width: 170px;
+	border: none;
+	box-shadow: 2px 2px 5px black;
+	color: black;
+ }
+
+  .btn:hover{
+ 	background-image: linear-gradient(to bottom,magenta,white); 
+ }
